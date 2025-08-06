@@ -1,0 +1,47 @@
+Email Overview   
+
+Sender:
+services@paypal-accounts.com (suspicious domain, not official PayPal)
+
+Recipient:
+Not clearly shown, but it is sent "to me" 
+
+Subject:
+[PayPal]: Your account access has been limited
+
+Claimed Institution:
+PayPal
+
+Message [Summary]:
+The email claims that the recipient's PayPal account is limited and urges them to act within 24 hours or risk permanent account disablement. It says the account is in danger due to unauthorized access and instructs the user to click a button to "Confirm Your Information" to resolve the issue.
+
+Important Note:
+
+This is a phishing email. Key red flags include:
+
+The sender's email domain is not official (paypal-accounts.com is not legitimate).
+
+There is a sense of urgency and threat ("24 hours to solve the problem").
+
+It includes a suspicious link asking for personal/account information.
+
+Do not click the link or provide any personal details. Report the email to PayPal's phishing team: phishing@paypal.com.
+
+
+
+
+Warning Signs
+
+This appears to be a phishing email. Key red flags include:
+
+Suspicious sender domain (@paypal-accounts.com instead of @paypal.com)
+
+Urgent deadline threat (24 hours)
+
+Request to click a link and enter account information
+
+Generic greeting ("Dear PayPal customer")
+
+Grammatical inconsistencies
+
+Never click links or provide personal information in response to such emails. Contact PayPal directly through their official website if you have concerns about your account.

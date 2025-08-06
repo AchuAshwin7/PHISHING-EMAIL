@@ -1,0 +1,55 @@
+PHISHING INDICATORS IN THE MAIL:   
+
+* This email contains multiple red flags that strongly suggest it is a phishing attack designed to trick users into giving away sensitive information such as login credentials or financial data.
+
+URGENT & TACTICS:
+
+The message says:
+                  “You have 24 hours to solve the problem or your account will be permanently disabled.”
+
+* This tactic is intended to create panic and urgency, pressuring the recipient to act quickly without thinking critically or verifying the legitimacy of the email.
+
+
+SUSPICIOUS SENDER ADDRESS:
+
+Sender: services@paypal-accounts.com
+
+* Legitimate PayPal emails usually come from domains like @paypal.com only.
+
+* The domain paypal-accounts.com is not affiliated with PayPal and is likely created to mimic the real brand.
+
+
+FAKE RESET LINK:
+
+* The email contains a "Confirm Your Information" button.
+
+* Though the actual URL isn't visible in the image, phishing emails typically link to fake websites that look like the real PayPal login page.
+
+* These links capture your login credentials or other personal information.
+
+GRAMMATICAL ERROR:
+
+* "Your PayPal account is limited, You have 24 hours..."
+  Here, the capitalization of "You" after a comma is incorrect
+
+* "your account will be permanetly disabled." — the word "permanetly" is misspelled. It should be "permanently"
+
+
+GREETING ERROR:
+
+The email starts with:
+“Dear PayPal customer,”
+
+* A real email from PayPal would typically address the user by their full name (e.g., “Dear Ashwin Kumar”) to show authenticity.
+
+* A generic greeting is a sign the sender doesn’t know your identity — common in mass phishing attempts.
+
+
+
+* If you ever receive such an email, do not click any links. Instead:
+
+* Go to PayPal directly by typing the official URL in your browser.
+
+* Forward the suspicious email to phishing@paypal.com.
+
+

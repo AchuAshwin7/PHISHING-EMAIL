@@ -1,0 +1,25 @@
+Key Concept -  Phishing Email Analysis    
+
+Phishing:
+
+Phishing is a type of cyberattack where attackers send fraudulent emails pretending to be legitimate companies (such as Facebook, Google, or banks) in order to deceive recipients into revealing sensitive information like passwords or credit card details.
+
+
+Email Spoofing:
+
+Email spoofing is a cyberattack technique where the sender's email address is forged to appear as if it is coming from a trusted source. The goal is to trick the recipient into trusting the message and disclosing confidential information.
+
+
+Social Engineering:
+
+Social engineering involves manipulating individuals by appealing to their emotions—such as fear or urgency—to prompt them to click malicious links or divulge personal information without due caution.
+
+Header Analysis:
+
+Emails have hidden "header" info that shows where the email really came from. You can copy this and check it using online tools to find anything suspicious.
+
+
+Threat Detection:
+
+Threat detection involves identifying warning signs such as suspicious email addresses, poor grammar, alarming messages, or deceptive links. Recognizing these red flags helps prevent falling victim to phishing scams.
+
